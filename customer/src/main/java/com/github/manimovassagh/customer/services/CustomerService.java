@@ -11,5 +11,10 @@ public record CustomerService() {
                 .lastName(request.lastName())
                 .email(request.email()).build();
 
+        //TODO: check if email is valid
+        //TODO: check if email is not taken
+        //TODO: store the customer data in database
+
+
     }
 }
