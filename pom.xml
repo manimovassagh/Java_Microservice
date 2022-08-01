@@ -11,6 +11,7 @@
 
   <modules>
 
+    <module>customer</module>
   </modules>
 
   <name>microservice-app</name>
